@@ -1,1 +1,3 @@
 # Improved-Yolov5
+# We proposed an enhanced lightweight YOLOv5s model, termed RDM-YOLO, specifically tailored for behavior recognition of fourth instar silkworms. By incorporating Res2Net blocks in the backbone network to capture multi-scale features, introducing the MPDIoU loss function to accelerate model convergence, and employing Distribution Shifting Convolution (DSConv) in the neck network to reduce computational complexity, RDM-YOLO achieved remarkable improvements.
+# You can download our model for training experiments, but not for publication! We have provided the yaml files and train.py you require, and you can download the dataset at another repository at https://github.com/xgmwg/DataSet .
